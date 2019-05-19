@@ -24,6 +24,7 @@ NB:AMD users same thing only in the AMD control panel.
 
 6.Fixing the annoying sound loops with poop sounds and porn sounds:
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
+
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like crApper.RIB
 
 That's it,you are good to go,enjoy the game,credit goes to the creators of the original Manhunt fix patch and the d3d8.dll (find them somewhere here in threads).I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds.
