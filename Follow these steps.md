@@ -20,6 +20,8 @@ C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
 5.Fixing crashes and glitches:
 
+-For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>Preferred Refresh Rate>Application Controlled
+
 -For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Vsync:on
 
 -For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Tripple Buffering:on
