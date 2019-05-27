@@ -7,9 +7,9 @@ How to get Manhunt working on Windows 10 build 1809:
 2.Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play 
 
 3.Fixing the gate bug and crashes:
-- Download all the files using this link: 
-https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory 
-C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+
+-Download all the files using this link: 
+https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
 -Run the Manhunt Fix.bat file 
 
@@ -27,7 +27,8 @@ Download the d3d8.dll using this link: https://github.com/fkortsagin/Manhunt-fix
 NB:AMD users same thing only in the AMD control panel.
 
 6.Fixing the annoying sound loops with poop sounds and porn sounds: 
-- Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
+
+-Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
 
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
