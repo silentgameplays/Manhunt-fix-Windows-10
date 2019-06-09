@@ -2,7 +2,6 @@
 
 2.Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play 
 
-
 3.Fixing the gate bug and crashes:
 - Download all the files using this link: 
 https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory 
