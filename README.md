@@ -31,6 +31,6 @@ NB:AMD users same thing only in the AMD control panel.
 
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
-7.For Win 10 1903 build(Experimental),copy and replace the existing save file iv C:\Users\User\Documents\Manhunt User Files\SaveGames with MANHUNT0.SAV  to skip the Level 2 crash
+7.For Win 10 1903 build(Experimental),copy and replace the existing save file in C:\Users\User\Documents\Manhunt User Files\SaveGames with MANHUNT0.SAV to skip the Scene 2 end crash
 
 That's it,you are good to go,enjoy the game,credit goes to the creators of the original Manhunt fix patch and the d3d8.dll (find them somewhere here in threads).I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. Cheers! #gimalaji_blake
