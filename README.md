@@ -1,5 +1,5 @@
 # Manhunt-fix-Windows-10
-Manhunt fix for Windows 10(2019)
+Manhunt-Fix-Windows-10-for-all-builds
 
 How to get Manhunt working on Windows 10 build 1809:
 
