@@ -1,7 +1,7 @@
 # Manhunt-fix-Windows-10
 Manhunt-Fix-Windows-10-for-all-builds
 
-How to get Manhunt working on Windows 10 build 1809:
+How to get Manhunt working on Windows 10:
 
 1.Install through Steam
 
