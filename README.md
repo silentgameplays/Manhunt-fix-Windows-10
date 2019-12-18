@@ -38,4 +38,8 @@ Manhunt.WidescreenFix.asi,Manhunt.WidescreenFix,modupdater.asi,dinput8.dll
 
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
-That's it,you are good to go,enjoy the game,credit goes to the creators of the original Manhunt fix patch and the d3d8.dll (find them somewhere here in threads).I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. Cheers! #gimalaji_blake
+That's it,you are good to go,enjoy the game.
+
+All the credit goes to the creators of the original Manhunt fix patch and the d3d8.dll wrapper (find them somewhere here in Steam thread,also additional credit goes to the creator of WideScreen Patch ThirteenAG.I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. 
+
+Cheers! #gimalaji_blake
