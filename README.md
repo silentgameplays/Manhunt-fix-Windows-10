@@ -9,13 +9,13 @@ How to get Manhunt working on Windows 10:
 
 3.Fixing the gate bug and crashes:
 
--Download all the files using this link: https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+-Download and extract all the files using this link: https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
 -Run the Manhunt Fix.bat file
 
 4.Fixing the FPS so that AI is smarter and does not stumble in place and the game does not crash: 
 
-Download the d3d8.dll using this link: https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+Put the d3d8.dll using this link: https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
 5.Fixing other crashes and glitches:
 
@@ -29,7 +29,7 @@ NB:AMD users same thing only in the AMD control panel.
 
 6.Fixing the crashes after Scenes 1,2 an later for Windows builds 1903,1909 and later(finally)
 
--Download all these files as well into the manhunt directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt:
+-Be sure that these files are put as well into the manhunt directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt:
 Manhunt.WidescreenFix.asi,Manhunt.WidescreenFix,modupdater.asi,dinput8.dll
 
 7.Fixing the annoying sound loops with poop sounds and porn sounds:
