@@ -40,6 +40,6 @@ Manhunt.WidescreenFix.asi,Manhunt.WidescreenFix,modupdater.asi,dinput8.dll
 
 That's it,you are good to go,enjoy the game.
 
-All the credit goes to the creators of the original Manhunt fix patch and the d3d8.dll wrapper find them somewhere here in Steam threads,also additional credit goes to the creator of WideScreen Patch ThirteenAG.I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. 
+All the credit goes to the creators of the original Manhunt fix patch and the d3d8.dll wrapper find them somewhere here in Steam threads,also additional credit goes to the creator of WideScreen Patch ThirteenAG and crosire for creating the FPS limit wrapper.I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. 
 
 Cheers! #gimalaji_blake
