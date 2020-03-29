@@ -46,6 +46,8 @@ Manhunt.WidescreenFix.asi,Manhunt.WidescreenFix,modupdater.asi,dinput8.dll
 
 -Run the shortcut to force the mouse onto a single monitor
 
+9.If you have problems with the game not going fullscreen, make sure you're using the x16 resolution, *not* x32.
+
 That's it,you are good to go,enjoy the game.
 
 All the credit goes to the creators of the original Manhunt fix patch and the d3d8.dll wrapper find them somewhere here in Steam threads,also additional credit goes to the creator of WideScreen Patch ThirteenAG and crosire for creating the FPS limit wrapper.I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. 
