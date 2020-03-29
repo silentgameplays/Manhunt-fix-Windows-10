@@ -38,6 +38,14 @@ Manhunt.WidescreenFix.asi,Manhunt.WidescreenFix,modupdater.asi,dinput8.dll
 
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
+8.If you have dual monitors, install Cursor Lock from http://www.snakebytestudios.com/projects/apps/cursor-lock/ or from the repository.
+
+-Click "Open Program" and point at your Manhunt exe (usually `C:\Program Files (x86)\Steam\steamapps\common\Manhunt\manhunt.exe`)
+
+-Click "Create shortcut" and put it "somewhere"
+
+-Run the shortcut to force the mouse onto a single monitor
+
 That's it,you are good to go,enjoy the game.
 
 All the credit goes to the creators of the original Manhunt fix patch and the d3d8.dll wrapper find them somewhere here in Steam threads,also additional credit goes to the creator of WideScreen Patch ThirteenAG and crosire for creating the FPS limit wrapper.I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. 
