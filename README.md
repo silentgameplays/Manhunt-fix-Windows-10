@@ -39,14 +39,14 @@ Manhunt.WidescreenFix.asi,Manhunt.WidescreenFix,modupdater.asi,dinput8.dll
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
 # For people who are having issues-YOU NEED TO INSTALL THIS FIX ON A CLEAN INSTALL OF THE GAME. PLEASE READ IF YOU ARE TRYING TO USE IT ON A GAME WITH A BUNCH OF WEIRD FIXES INSTALLED FROM DIFFERENT SOURCES AND START EXPERIENCING ISSUES! Thank you!
-* 0.Copy your saves somewhere from User\Documents\Manhunt User Files\SaveGames\ then delete the \Manhunt User Files\SaveGames\ folder
-* 1. Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play
-* 2.Uninstall Manhunt through Steam and delete the main folder Manhunt,location C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
-* 3. Install the game again,download the fix again copy paste into C:\Program Files (x86)\Steam\SteamApps\common\Manhunt,
-* 4.Run the Manhunt Fix.bat file
-* 5. Launch the game start it up play a bit,exit
-* 6.Quit the game
-* 7.Find this folder location User\Documents\Manhunt User Files\SaveGames\ drop your previous saved games there.
+ 0. Copy your saves somewhere from User\Documents\Manhunt User Files\SaveGames\ then delete the \Manhunt User Files\SaveGames\ folder
+ 1. Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play
+ 2. Uninstall Manhunt through Steam and delete the main folder Manhunt,location C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+ 3. Install the game again,download the fix again copy paste into C:\Program Files (x86)\Steam\SteamApps\common\Manhunt,
+ 4. Run the Manhunt Fix.bat file
+ 5. Launch the game start it up play a bit,exit
+ 6. Quit the game
+ 7. Find this folder location User\Documents\Manhunt User Files\SaveGames\ drop your previous saved games there.
 
 That's it,you are good to go,enjoy the game.
 
