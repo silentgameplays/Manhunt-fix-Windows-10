@@ -48,6 +48,16 @@ Manhunt.WidescreenFix.asi,Manhunt.WidescreenFix,modupdater.asi,dinput8.dll
 
 9.If you have problems with the game not going fullscreen, make sure you're using the x16 resolution, *not* x32.
 
+# For people who are having issues-YOU NEED TO INSTALL THIS FIX ON A CLEAN INSTALL OF THE GAME. PLEASE READ IF YOU ARE TRYING TO USE IT ON A GAME WITH A BUNCH OF WEIRD FIXES INSTALLED FROM DIFFERENT SOURCES AND START EXPERIENCING ISSUES! Thank you!
+ 0. Copy your saves somewhere from User\Documents\Manhunt User Files\SaveGames\ then delete the \Manhunt User Files\SaveGames\ folder
+ 1. Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play
+ 2. Uninstall Manhunt through Steam and delete the main folder Manhunt,location C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+ 3. Install the game again,download the fix again copy paste into C:\Program Files (x86)\Steam\SteamApps\common\Manhunt,
+ 4. Run the Manhunt Fix.bat file
+ 5. Launch the game start it up play a bit,exit
+ 6. Quit the game
+ 7. Find this folder location User\Documents\Manhunt User Files\SaveGames\ drop your previous saved games there.
+
 That's it,you are good to go,enjoy the game.
 
 All the credit goes to the creators of the original Manhunt fix patch and the d3d8.dll wrapper find them somewhere here in Steam threads,also additional credit goes to the creator of WideScreen Patch ThirteenAG and crosire for creating the FPS limit wrapper.I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds. 
