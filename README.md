@@ -2,6 +2,7 @@
 Manhunt-Fix-Windows-10-for-all-builds
 
 How to get Manhunt working on Windows 10:
+# NB! For each build of Windows 10 starting from 1809,1909 there is a separate folder for fixes use the one that is suitable for your Windows 10 build!The latest and "greatest" Windows 10 build fixes are without a folder current is 2004!
 
 1.Install through Steam
 
