@@ -12,7 +12,7 @@ How to get Manhunt working on Windows 10:
 
 -Download and extract all the files depending on your version of Windows 10 using this link: https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
-4. Run the Manhunt Fix.bat file
+4.Run the Manhunt Fix.bat file
 
 5.(NVIDIA Users Only)Fixing other crashes and glitches:
 
@@ -22,7 +22,7 @@ How to get Manhunt working on Windows 10:
 
 -For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Tripple Buffering:on
 
-NB:AMD users same thing only in the AMD control panel.
+NB:AMD users same thing only in the AMD control panel(or ignore this step).
 
 6.Fixing the crashes after Scenes 1,2 an later for Windows builds 1903,1909 and later(finally)
 
