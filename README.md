@@ -11,9 +11,9 @@ How to get Manhunt working on Windows 10:
 
 3. Copy/Paste into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
-4.Run the Manhunt Fix.bat file
+4. Run the Manhunt Fix.bat file
 
-# 5.(NVIDIA Users Only) Fixing other crashes and glitches:
+# 5. (NVIDIA Users Only) Fixing other crashes and glitches:
 
 -For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>Preferred Refresh Rate>Application Controlled
 
@@ -23,7 +23,7 @@ How to get Manhunt working on Windows 10:
 
 NB:AMD users same thing only in the AMD control panel(or ignore this step).
 
-6.Fixing the annoying sound loops with poop sounds and porn sounds:
+6. Fixing the annoying sound loops with poop sounds and porn sounds:
 
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
 
