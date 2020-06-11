@@ -32,14 +32,19 @@ NB:AMD users same thing only in the AMD control panel(or ignore this step).
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\GASPOUR folder and find the file named GASPOUR.RIB and change it to something like g@spour.RIB
 
 # For people who are having issues-YOU NEED TO INSTALL THIS FIX ON A CLEAN INSTALL OF THE GAME. PLEASE READ IF YOU ARE TRYING TO USE IT ON A GAME WITH A BUNCH OF WEIRD FIXES INSTALLED FROM DIFFERENT SOURCES AND START EXPERIENCING ISSUES! Thank you!
- 0. Copy your saves somewhere from User\Documents\Manhunt User Files\SaveGames\ then delete the \Manhunt User Files\SaveGames\ folder (skip if no saves)
- 1. Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
- 2. Uninstall Manhunt through Steam and delete the main folder Manhunt,location C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
- 3. Install the game again,download the fix again and extract,copy paste into C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+ 0. Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable and Direct Play .NET 3.5 Framework support
+ 1. Uninstall Manhunt through Steam 
+ 2. Delete the main folder Manhunt,location C:\Program Files (x86)\Steam\SteamApps\common\
+ 3. Install the game again,download the fix again 
+ 4. Extract,Copy/Paste into C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
  4. Run the Manhunt Fix.bat file
  5. Launch the game.
- 6. Quit the game.(skip if no saves)
- 7. Find this folder location User\Documents\Manhunt User Files\SaveGames\ drop your previous saved games there.(skip if no saves)
+ # For recovering save games before doing all the above (skip if no saves)
+ 1. Find this folder location User\Documents\Manhunt User Files\SaveGames\ 
+ Copy/Paste your previous saved games from there files usually look like this MANHUNT0.SAV (skip if no saves)
+ # After doing the fresh install launch the game at least once,launch a new game,quit (skip if no saves) 
+ 2. Find this folder,location User\Documents\Manhunt User Files\SaveGames\ 
+ Copy/Paste your previous saved games files usually look like this MANHUNT0.SAV (skip if no saves)
 
 That's it,you are good to go,enjoy the game.
 
