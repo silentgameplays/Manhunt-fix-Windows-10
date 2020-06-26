@@ -5,7 +5,8 @@ How to get Manhunt working on Windows 10:
 # NB!The latest fix without any folders is here it does not require previous ones and works across builds moved all the old fixes to other repo!
 
 0. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
-1.Install through Steam
+
+1. Install through Steam
 
 2. Download and extract all the files 
 
