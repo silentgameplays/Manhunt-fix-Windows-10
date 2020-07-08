@@ -14,7 +14,7 @@ How to get Manhunt working on Windows 10:
 
 4. Run the Manhunt Fix.bat file
 
-# 5. (NVIDIA Users Only) Fixing other crashes and glitches:
+# 5. (NVIDIA Users Only/AMD USERS IGNORE THIS STEP) Fixing other crashes and glitches(SKIP THIS STEP IF ITS HARD TO SETUP,IT IS NON-ESSENTIAL):
 
 -For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>Preferred Refresh Rate>Application Controlled
 
@@ -22,7 +22,7 @@ How to get Manhunt working on Windows 10:
 
 -For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Tripple Buffering:on
 
-NB:AMD users same thing only in the AMD control panel(or ignore this step).
+# NB:AMD users ignore this step.
 
 6. Fixing the annoying sound loops with poop sounds and porn sounds:
 
