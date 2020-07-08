@@ -1,6 +1,6 @@
 # NB!Achtung! Attention! Experimental Testing Fix!Unstable magical substance detected (ROFL)!!!
-1. Use at your own risk starting with Windows 10 2004 ONLY if you experience issues with existing fix(delays)! 
-2. Fully supports Windows 10 1809. Horribly crashes on Windows 10 builds 1903 and 1909!!!
+1. Use at your own risk starting with Windows 10 2004 ONLY if you experience issues with existing fix(delays/etc)! 
+2. Fully supports Windows 10 1809. We are entering the testing phase on this one,might crash on 1903/1909!!!
 # Instructions (Handle with care!):
 
 # REQUIRES A FRESH INSTALL!!!
