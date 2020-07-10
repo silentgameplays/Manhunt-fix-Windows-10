@@ -22,7 +22,7 @@ How to get Manhunt working on Windows 10:
 
 -For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Tripple Buffering:on
 
-6. Fixing the annoying sound loops with poop sounds and porn sounds:
+6. Fixing the annoying sound loops with poop sounds and porn sounds by disabling them completely:
 
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
 
