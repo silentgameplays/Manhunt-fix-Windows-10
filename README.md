@@ -47,6 +47,8 @@ How to get Manhunt working on Windows 10:
 
 That's it,you are good to go,enjoy the game.
 
-All the credit goes to the creators of the original Manhunt fix patch and the d3d8.dll wrapper find them somewhere here in Steam threads,also additional credit goes to the creator of WideScreen Patch ThirteenAG and crosire for creating the FPS limit wrapper.I just combined everything that worked for me,hopefully will work for you as well and you will avoid the headache with workarounds.NB added wine-based wrapper for Windows 10 2004 build support. 
+# All the credit goes to the creators of the original Manhunt fix patch AJ Collins,credit goes to ThirteenAG for .ini FPS limiter. 
+# Combination of fixes,testing,manual configuration is done by gimalaji_blake. Hopefully will work for everyone and will save time looking for workarounds.
+# NB added wine-based wrappers for Windows 10 2004 build support. 
 
-Cheers! #gimalaji_blake
+# Cheers! #gimalaji_blake
