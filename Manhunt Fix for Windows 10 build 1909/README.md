@@ -9,7 +9,7 @@ Manhunt-Fix-Windows-10-build-1909
 
 3.Run the Manhunt Fix.bat file
 
-4. Disabling audio sound loops completely by removing audio:
+4.Disabling audio sound loops completely by removing audio:
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
