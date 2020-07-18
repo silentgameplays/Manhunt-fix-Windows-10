@@ -7,25 +7,13 @@ Manhunt-Fix-Windows-10-build-1909
 
 2.Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play
 
-3.Fixing the gate bug and crashes:
+3.Run the Manhunt Fix.bat file
 
--Download and extract all the files using this link: https://github.com/fkortsagin/Manhunt-fix-Windows-10/ into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
-
--Run the Manhunt Fix.bat file
-
-# 4.(Optional Step) Fixing other crashes and glitches(NVIDIA Users ONLY AMD users can skip this step):
-
--For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>Preferred Refresh Rate>Application Controlled
-
--For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Vsync:on
-
--For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Tripple Buffering:on
-
-5.Fixing the annoying sound loops with poop sounds and porn sounds by disabling them completely:
-
--Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
-
--Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
+4. Disabling audio sound loops completely by removing audio:
+Manually:
+- Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
+- Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
+- Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
 That's it,you are good to go,enjoy the game.
 
