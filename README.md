@@ -14,21 +14,11 @@ How to get Manhunt working on Windows 10:
 
 4. Run the Manhunt Fix.bat file
 
-# 5. (NVIDIA Users Only/AMD USERS IGNORE THIS STEP) Fixing other crashes and glitches(SKIP THIS STEP IF ITS HARD TO SETUP,IT IS NON-ESSENTIAL):
-
--For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>Preferred Refresh Rate>Application Controlled
-
--For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Vsync:on
-
--For Nvidia users>Nvidia Control Panel>Manage 3D Settings>Program Settings>:Tripple Buffering:on
-
-6. Fixing the annoying sound loops with poop sounds and porn sounds by disabling them completely:
-
+5. Disabling audio sound loops completely by removing audio:
+Manually:
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
-
 -Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
-
--Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\GASPOUR folder and find the file named GASPOUR.RIB and change it to something like g@spour.RIB
+-Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
 # For people who are having issues-YOU NEED TO INSTALL THIS FIX ON A CLEAN INSTALL OF THE GAME. PLEASE READ IF YOU ARE TRYING TO USE IT ON A GAME WITH A BUNCH OF WEIRD FIXES INSTALLED FROM DIFFERENT SOURCES AND START EXPERIENCING ISSUES! Thank you!
  0. Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable and Direct Play .NET 3.5 Framework support
