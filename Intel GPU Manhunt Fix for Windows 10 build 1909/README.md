@@ -1,7 +1,7 @@
 # Manhunt-fix-Windows-10-build-1909
 Manhunt-Fix-Windows-10-build-1909
 
-# How to get Manhunt working on Windows 10(builds 1903,1909):
+# How to get Manhunt working on Intel GPU Windows 10(builds 1903,1909):
 
 1.Install through Steam
 
