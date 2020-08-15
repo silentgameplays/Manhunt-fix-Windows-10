@@ -8,9 +8,11 @@ How to get Manhunt working on Windows 10:
 
 1. Install through Steam
 
-2. Download and extract all the files from this fix corresponding to your Windows 10 build 1909-1903 and GPU. Currently based on feedback there are 2 more folders more in this fix one is for Intel Integrated GPUs another is for Windows 10 1909-1903 builds. 
+# NB!Currently based on user feedback there are 2 more folders in this fix one is for Intel Integrated GPU's another is for older Windows 10 1909-1903 builds
 
-3. Copy/Paste into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+2. Download and extract all the files from this fix corresponding to your Windows 10 build.
+
+3. Copy/Paste from the required folder into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
 4. Run the Manhunt Fix.bat file
 
