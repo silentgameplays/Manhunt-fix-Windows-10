@@ -22,6 +22,17 @@ Manually:
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
+# NB! For Dual GPU laptops ONLY!:
+1. Download everything extract.
+
+2. Copy all files from Reshade Dual GPU's Laptops folder C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
+
+3. Go to your NVIDIA Control Panel>3D Settings>Global find the preferred GPU and set it to NVIDIA
+
+4. Run the Manhunt Fix.bat file
+
+5. Enjoy
+
 # For people who are having issues-YOU NEED TO INSTALL THIS FIX ON A CLEAN INSTALL OF THE GAME. PLEASE READ IF YOU ARE TRYING TO USE IT ON A GAME WITH A BUNCH OF WEIRD FIXES INSTALLED FROM DIFFERENT SOURCES AND START EXPERIENCING ISSUES! Thank you!
  
  0. Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable and Direct Play .NET 3.5 Framework support
