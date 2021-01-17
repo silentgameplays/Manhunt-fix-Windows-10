@@ -22,7 +22,7 @@ Manually:
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 
-# NB! For Dual GPU laptops ONLY!:
+# NB! For Dual GPU laptops ONLY!Experimental might not work in every case:
 1. Download everything extract.
 
 2. Copy all files from Reshade Dual GPU's Laptops folder C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
