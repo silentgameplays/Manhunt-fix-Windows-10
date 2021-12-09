@@ -54,8 +54,8 @@ Manually:
 That's it,you are good to go,enjoy the game.
 
 # All the credit goes to the creators of the original Manhunt fix patch AJ Collins,credit goes to ThirteenAG for .ini FPS limiter visit his site for more goodness:https://thirteenag.github.io/wfp 
-# Combination of fixes,testing,manual configuration is done by gimalaji_blake. Hopefully will work for everyone and will save time looking for workarounds.
+# Combination of fixes,testing,manual configuration is done by silentgameplayzz. Hopefully will work for everyone and will save time looking for workarounds.
 # NB added wine-based wrappers for Windows 10 2004 build support. 
 
 # Cheers! 
-# gimalaji_blake
+# silentgameplayzz
