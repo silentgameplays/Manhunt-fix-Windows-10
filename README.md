@@ -8,7 +8,7 @@ How to get Manhunt working on Windows 10 (21H1) and Windows 11:
 
 1. Install through Steam
 
-# NB!Currently based on user feedback there are 2 more folders in this fix one is for Intel Integrated GPU's another is for older Windows 10 1909-1903 builds
+# # NB!Currently based on user feedback there are more folders in this fix: 
 
 2. Download and extract all the files from this fix corresponding to your Windows 10 build.
 
