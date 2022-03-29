@@ -58,4 +58,4 @@ That's it,you are good to go,enjoy the game.
 # NB added wine-based wrappers for Windows 10 2004 build support. 
 
 # Cheers! 
-# silentgameplayzz
+# silentgamepls
