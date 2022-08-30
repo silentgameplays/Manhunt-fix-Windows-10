@@ -17,11 +17,11 @@ How to get Manhunt working on Windows 10 (21H1) and Windows 11:
 
 4. Run the Manhunt Fix.bat file
 
-5. Disabling audio sound loops completely by removing audio:
-Manually:
+5. Disabling audio sound loops completely by renaming/removing audio files manually:
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
+
 # Fixing audio loops without removing/renaming the files:
 * There is a folder called Manhunt Audio Fix Experimental copy/paste the files from that folder into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
 
