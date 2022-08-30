@@ -59,7 +59,7 @@ That's it,you are good to go,enjoy the game.
 # All the credit goes to the creators of the original Manhunt fix patch AJ Collins,credit goes to ThirteenAG for .ini FPS limiter visit his site for more goodness:https://thirteenag.github.io/wfp 
 # Combination of fixes,testing,manual configuration is done by silentgamepls. Hopefully will work for everyone and will save time looking for workarounds.
 # NB added wine-based wrappers for Windows 10 2004 build support. 
-# NB added audio fix by ermaccer,experimental
+# NB added audio fix by ermaccer,experimental,check his repo also: https://github.com/ermaccer/Manhunt.AudioFix/releases/tag/1.0b5
 # NB for all the users,please report any issues to the issues section in the github repo,not on my gaming youtube channel under unrelated videos!
 
 # Cheers! 
