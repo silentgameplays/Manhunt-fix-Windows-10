@@ -54,14 +54,14 @@ How to get Manhunt working on Windows 10 (21H1) and Windows 11:
  Copy/Paste your previous saved games files usually look like this MANHUNT0.SAV (skip if no saves)
  
  # FOR RETAIL VERSIONS OF MANHUNT ONLY,CD's,ISO's,etc when you get Steam 02 error(DO NOT RUN THIS ON STEAM VERSIONS OF THE GAME!!!!!)
- 1.Install the game
- 2.Depending on your GPU use the appropriate folder with the fix files,f.e for some laptops use the Reshade Dual GPU's Laptops folder,on others enable NVIDIA Driver as main instead of Intel in the NVIDIA Control Panel>Program Settings>Set Primary GPU to NVIDIA instead of Intel HD
- 3.Copy/paste the testapp.exe from Manhunt TestApp for non Steam Versions folder
- 4.Run the Manhunt Fix.bat file,do not launch the game yet.
- 5.Go into your Manhunt folder,look for the installation it can be custom in every case.
- 6.Rename the manhunt.old.exe to that appears after the patching to manhunt.exe
- 7.Rename manhhunt.exe to manhunt.old.exe
- 8.Launch the game.
+ 1. Install the game
+ 2. Depending on your GPU use the appropriate folder with the fix files,f.e for some laptops use the Reshade Dual GPU's Laptops folder,on others enable NVIDIA Driver as main instead of Intel in the NVIDIA Control Panel>Program Settings>Set Primary GPU to NVIDIA instead of Intel HD
+ 3. Copy/paste the testapp.exe from Manhunt TestApp for non Steam Versions folder
+ 4. Run the Manhunt Fix.bat file,do not launch the game yet.
+ 5. Go into your Manhunt folder,look for the installation it can be custom in every case.
+ 6. Rename the manhunt.old.exe to that appears after the patching to manhunt.exe
+ 7. Rename manhhunt.exe to manhunt.old.exe
+ 8. Launch the game.
  
 That's it,you are good to go,enjoy the game.
 
