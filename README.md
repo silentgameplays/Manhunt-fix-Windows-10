@@ -1,7 +1,6 @@
 # Manhunt-fix-Windows-10
 Manhunt-Fix-Windows-10-for-all-builds
-# NB! The creator of this fix is not responsible if something will go wrong during install,or for any issues that arise on your OS/hardware.This fix is distributed under GPL 3.0 license.
-This tutorial is meant for enthusiasts,tinkerers and gamers who want the the game to work and are not affraid to take the risk of learning some new stuff in the process.
+# NB! The creator of this fix is not responsible if something will go wrong during install,or for any issues that arise on your OS/hardware.This fix is distributed under GPL 3.0 license.This tutorial is meant for enthusiasts,tinkerers and gamers who want the the game to work and are not afraid to take the risk of learning some new stuff in the process.
 
 How to get Manhunt working on Windows 10 (21H1) and Windows 11:
 # NB!The latest fix without any folders is here it does not require previous ones and works across builds moved all the old fixes to other repo!
