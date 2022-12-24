@@ -59,7 +59,6 @@ That's it,you are good to go,enjoy the game.
 # All the credit goes to the creators of the original Manhunt fix patch AJ Collins,credit goes to ThirteenAG for .ini FPS limiter visit his site for more goodness:https://thirteenag.github.io/wfp 
 # Credit for audio fix goes to ermaccer,visit his website for more Manhunt goodies:https://ermaccer.github.io/
 # NB Updated to Windows 11 22H2 build version
-# NB added audio fix by ermaccer,experimental,check his repo also: https://github.com/ermaccer/Manhunt.AudioFix/releases/tag/1.0b5
 # Combination of fixes,testing,manual configuration is done by silentgamepls. Hopefully will work for everyone and will save time looking for workarounds.
 # NB added audio fix by ermaccer,experimental,check his repo also: https://github.com/ermaccer/Manhunt.AudioFix/releases/tag/1.0b5
 # NB Audio Fix Has been removed from the main fix and placed into a separate folder due to reports of false positives,related to using the ThirteenAG's dinput8.dll wrapper and ermaccers AudioFix.asi required for the audio fix to work,use at your own risk if you want functional audio in game and/or if you require the ThirteenAG's Widescreen Patch.
