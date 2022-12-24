@@ -21,6 +21,7 @@ How to get Manhunt working on Windows 10 (21H1) and Windows 11:
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\PORN folder and find the file named PORN.RIB and change it to something like p0rn.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Manhunt\audio\PC\SCRIPTED\CRAPPER folder and find the file named CRAPPER.RIB and change it to something like cr@pper.RIB
+6. For fixing broken sound in-game just install openal using the oalinst provided in this repository
 
 # Fixing audio loops without removing/renaming the files by using ermaccers audio fix:
 * There is a folder called Manhunt Audio Fix Experimental copy/paste the files from that folder into the Manhunt Directory C:\Program Files (x86)\Steam\SteamApps\common\Manhunt
