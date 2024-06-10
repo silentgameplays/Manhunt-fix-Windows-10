@@ -53,7 +53,19 @@ How to get Manhunt working on Windows 10 (21H1) and Windows 11:
  # After doing the fresh install launch the game at least once,launch a new game,quit (skip if no saves) 
  2. Find this folder,location User\Documents\Manhunt User Files\SaveGames\ 
  Copy/Paste your previous saved games files usually look like this MANHUNT0.SAV (skip if no saves)
- 
+
+ # Manhunt Fix Linux
+
+1.Install mangohud for your distro
+2.Install Manhunt through Steam
+3.Go into Manhunt folder and rename manhunt.exe to manhunt.exe.old
+4.Rename testapp.exe into manhunt.exe
+5.Go to Steam>Manhunt>Compatibility>General>Launch Options
+6.MANGOHUD_CONFIG="fps_limit=60,no_display" mangohud %command%
+7.(Optional) If the defalt Steam Proton version does not work try a custom proton version from Glorious Eggroll, latest tested with this fix was 9.7. https://github.com/GloriousEggroll/proton-ge-custom/releases 
+8.Enjoy the game
+
+# silentgameplays
  
 That's it,you are good to go,enjoy the game.
 
